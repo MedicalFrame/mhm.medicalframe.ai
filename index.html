@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="MedicalFrame의 새 책, 나는 딴 돈의 절반만 가져가. 사회기업윤리, OpenFrame, HyperFrame Suite, AI EMR PoC를 연결하는 선언."
+    />
+    <meta property="og:title" content="나는 딴 돈의 절반만 가져가 | MedicalFrame" />
+    <meta
+      property="og:description"
+      content="EMR을 바꾸지 않고, EMR 위의 일을 바꾼다. 사회기업윤리와 HyperFrame Suite의 실행 선언."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="assets/cover/book-cover.png" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>나는 딴 돈의 절반만 가져가 | MedicalFrame</title>
+    <link rel="icon" href="assets/cover/book-cover.png" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="https://medicalframe.ai">MedicalFrame</a>
+      <nav aria-label="사이트 이동">
+        <a href="#book">책</a>
+        <a href="#suite">HyperFrame</a>
+        <a href="#openframe">원칙</a>
+        <a href="#poc">PoC</a>
+        <a href="#contents">목차</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" aria-label="나는 딴 돈의 절반만 가져가">
+        <div class="hero-copy">
+          <h1>나는 딴 돈의 절반만 가져가</h1>
+          <p class="subtitle">EMR을 바꾸지 않고, EMR 위의 일을 바꾼다.</p>
+          <p class="lead">
+            사회기업윤리, OpenFrame, HyperFrame Suite, AI EMR PoC를 하나의 실행 구조로
+            묶는 MedicalFrame의 새 책입니다.
+          </p>
+          <p class="asset-note">MedicalFrame Inc. company asset · Open Source MIT License</p>
+          <div class="hero-actions" aria-label="주요 문서">
+            <a class="button primary" href="downloads/MHMbook.pdf" download>PDF 다운로드</a>
+            <a class="button secondary" href="downloads/mhmbook-draft.md">책 원고 보기</a>
+            <a class="button secondary" href="downloads/hyperframe-strategy.md">HyperFrame 전략 보기</a>
+          </div>
+        </div>
+        <figure class="hero-visual">
+          <img
+            src="assets/cover/book-cover.png"
+            alt="나는 딴 돈의 절반만 가져가 책 표지"
+          />
+        </figure>
+      </section>
+
+      <section class="thesis-band" id="book">
+        <div class="section-heading">
+          <span class="label">Book Thesis</span>
+          <h2>도발적인 제목으로 시작하지만, 목표는 정교한 공익 인프라다.</h2>
+        </div>
+        <div class="thesis-grid">
+          <article>
+            <h3>기업은 사회 밖에서 돈을 벌지 않는다</h3>
+            <p>
+              도로, 통신망, 교육, 병원, 법률, 연구 생태계 위에서 돈을 버는 회사는
+              그 기반을 다시 살리는 방식으로 운영되어야 한다.
+            </p>
+          </article>
+          <article>
+            <h3>의료, 교육, 연구는 모두의 것이다</h3>
+            <p>
+              돈 있는 곳에서 정당하게 벌고, 돈 없는 곳에는 시스템과 지식을 나누는
+              접근성 정책이 필요하다.
+            </p>
+          </article>
+          <article>
+            <h3>절반은 탐욕의 상한선이다</h3>
+            <p>
+              이익의 전부를 가져가는 대신 팀, 현장, 공익사업, 다음 시스템의 설치비로
+              다시 흘려보낸다.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="suite-band" id="suite">
+        <div class="section-heading">
+          <span class="label">HyperFrame Suite</span>
+          <h2>기존 EMR 위에 붙는 AI clinical workflow layer.</h2>
+          <p>
+            HyperFrame은 EMR을 갈아엎는 제품이 아니다. 공식 기록 원장은 기존 EMR에
+            두고, 반복되는 진료·연구·문서 업무를 옆에서 줄인다.
+          </p>
+        </div>
+        <div class="suite-grid">
+          <article>
+            <span>01</span>
+            <h3>HyperClick</h3>
+            <p>말, 텍스트, 버튼으로 EMR 업무를 지시하는 command layer.</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>HyperEMR</h3>
+            <p>기존 EMR 옆에 켜지는 AI clinical cockpit.</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>HyperRAG</h3>
+            <p>병원 문서, FAQ, 지침, 연구자료 기반 RAG.</p>
+          </article>
+          <article>
+            <span>04</span>
+            <h3>HyperIRB</h3>
+            <p>연구 변수 추출, IRB 문서, CSV/JSONL/SQL export.</p>
+          </article>
+          <article>
+            <span>05</span>
+            <h3>HyperText</h3>
+            <p>비식별화, 문서 정리, 텍스트 클리닝.</p>
+          </article>
+          <article>
+            <span>06</span>
+            <h3>HyperLink</h3>
+            <p>EMR, API, MCP, CLI, export를 연결하는 integration layer.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="openframe-band" id="openframe">
+        <div class="principle-copy">
+          <span class="label">OpenFrame Principle</span>
+          <h2>Core는 공개하고, 병원 운영 책임은 유료로 둔다.</h2>
+          <p>
+            오픈소스는 신뢰와 검증 가능성을 만들고, 유료 운영은 보안, 연동, SLA,
+            병원별 workflow customization의 책임을 감당한다.
+          </p>
+        </div>
+        <div class="split-list" aria-label="공개와 유료 운영 구분">
+          <div>
+            <h3>공개할 것</h3>
+            <ul>
+              <li>HyperFrame core</li>
+              <li>HyperClick demo</li>
+              <li>OpenEMR connector</li>
+              <li>mock patient dataset</li>
+              <li>RAG pipeline</li>
+              <li>prompt templates</li>
+            </ul>
+          </div>
+          <div>
+            <h3>유료화할 것</h3>
+            <ul>
+              <li>병원 EMR connector</li>
+              <li>on-prem deployment</li>
+              <li>private inference</li>
+              <li>RBAC / audit log</li>
+              <li>SLA / support</li>
+              <li>다기관 registry 운영</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="poc-band" id="poc">
+        <div class="section-heading">
+          <span class="label">PoC Model</span>
+          <h2>1억짜리 EMR 교체가 아니라, 월 100만 원짜리 AI workflow PoC부터.</h2>
+        </div>
+        <div class="pricing-grid">
+          <article>
+            <h3>Community</h3>
+            <strong>무료</strong>
+            <p>GitHub 공개, OpenEMR demo, synthetic data, local install.</p>
+          </article>
+          <article>
+            <h3>Clinic / Center Starter</h3>
+            <strong>월 100만 원부터</strong>
+            <p>문서 RAG, 환자 답장 초안, SOAP 초안, 연구 변수 추출, 비식별화.</p>
+          </article>
+          <article>
+            <h3>Department PoC</h3>
+            <strong>월 300만-500만 원</strong>
+            <p>특정 진료과/센터 PoC, audit log, 사용자 계정, KIS/export/API 연동 검토.</p>
+          </article>
+          <article>
+            <h3>Hospital Enterprise</h3>
+            <strong>월 1,000만 원 이상</strong>
+            <p>정식 connector, private inference, RBAC, 보안 검토, SLA, 병원별 구축.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="workflow-band">
+        <div class="section-heading">
+          <span class="label">30-Day Execution</span>
+          <h2>말보다 산출물. Repo, demo, proposal, PoC로 간다.</h2>
+        </div>
+        <ol class="timeline">
+          <li>
+            <span>2일</span>
+            <p>HyperClick demo와 OpenEMR 기반 공개 시연 화면을 만든다.</p>
+          </li>
+          <li>
+            <span>7일</span>
+            <p>public release, 3분 데모 영상, architecture note를 공개한다.</p>
+          </li>
+          <li>
+            <span>30일</span>
+            <p>병원/센터 PoC에서 SOAP 초안, 환자 문의, 연구 변수 추출을 검증한다.</p>
+          </li>
+        </ol>
+      </section>
+
+      <section class="contents-band" id="contents">
+        <div class="section-heading">
+          <span class="label">Contents</span>
+          <h2>9부 28장으로 정리한 사회기업윤리와 AI EMR 실행 선언.</h2>
+        </div>
+        <div class="contents-grid">
+          <article>
+            <img src="assets/illustrations/part-01.png" alt="1부 삽화" />
+            <span>1부</span>
+            <p>기업은 사회 밖에서 살 수 없다</p>
+          </article>
+          <article>
+            <img src="assets/illustrations/part-02.png" alt="2부 삽화" />
+            <span>2부</span>
+            <p>나는 딴 돈의 절반만 가져가</p>
+          </article>
+          <article>
+            <img src="assets/illustrations/part-03.png" alt="3부 삽화" />
+            <span>3부</span>
+            <p>의료, 교육, 연구는 모두의 것이다</p>
+          </article>
+          <article>
+            <img src="assets/illustrations/part-04.png" alt="4부 삽화" />
+            <span>4부</span>
+            <p>Medical Frame과 OpenFrame 모델</p>
+          </article>
+          <article>
+            <img src="assets/illustrations/part-05.png" alt="5부 삽화" />
+            <span>5부</span>
+            <p>AI EMR 선언</p>
+          </article>
+          <article>
+            <img src="assets/illustrations/part-06.png" alt="6부 삽화" />
+            <span>6부</span>
+            <p>무료 배포는 마케팅이 아니라 실증이다</p>
+          </article>
+          <article>
+            <img src="assets/illustrations/part-07.png" alt="7부 삽화" />
+            <span>7부</span>
+            <p>방해와 저항을 다루는 법</p>
+          </article>
+          <article>
+            <img src="assets/illustrations/part-08.png" alt="8부 삽화" />
+            <span>8부</span>
+            <p>절반만 가져가는 회사의 운영 원칙</p>
+          </article>
+          <article>
+            <img src="assets/illustrations/part-09.png" alt="9부 삽화" />
+            <span>9부</span>
+            <p>새로운 기업윤리 선언</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="closing-band">
+        <div>
+          <h2>나는 딴 돈의 절반만 가져가.</h2>
+          <p>나머지 절반은 다음 판을 고치는 데 쓴다.</p>
+        </div>
+        <a class="button primary" href="downloads/MHMbook.pdf" download>PDF 다운로드</a>
+      </section>
+    </main>
+
+    <footer>
+      <span>© 2026 MedicalFrame Inc. · Open Source MIT License</span>
+      <a href="LICENSE">MIT License</a>
+      <a href="mailto:jisong@medicalframe.ai">jisong@medicalframe.ai</a>
+    </footer>
+  </body>
+</html>

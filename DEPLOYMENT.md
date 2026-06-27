@@ -1,0 +1,41 @@
+# mhm.medicalframe.ai 배포 메모
+
+## 현재 산출물
+
+- `index.html`: 공개 웹사이트
+- `styles.css`: 스타일
+- `assets/cover/book-cover.png`: 책 표지 및 웹 히어로 이미지
+- `assets/cover/cover-art.png`: 표지 배경 원본
+- `assets/hero-workflow.png`: 초기 HyperFrame 히어로 콘셉트 이미지
+- `assets/illustrations/part-01.png`-`part-09.png`: 부별 삽화 9장
+- `downloads/MHMbook.pdf`: PDF 초안
+- `downloads/mhmbook-draft.md`: Markdown 원고 초안
+- `downloads/hyperframe-strategy.md`: 공개용 HyperFrame 전략 요약
+- `LICENSE`: MIT License
+- `CNAME`: `mhm.medicalframe.ai`
+- `.nojekyll`: GitHub Pages 정적 파일 보호용
+
+## 배포 전 확인
+
+배포 전에 다음을 확인한다.
+
+- PDF 파일이 최신 합본에서 생성되었는가
+- `downloads/MHMbook.pdf`와 `MHMbook/output/pdf/MHMbook.pdf`가 같은 파일인가
+- `downloads/mhmbook-draft.md`와 `MHMbook/output/mhmbook-draft.md`가 같은 파일인가
+- 표지 이미지가 로드되는가
+- MIT License 파일이 공개 폴더에 있는가
+- 목차가 9부 28장 구조로 보이는가
+- 부별 삽화 9장이 모두 로드되는가
+- HTML 링크 검사에서 누락이 0개인가
+- 데스크톱/모바일 렌더링에서 가로 넘침이 없는가
+- 외부 공개 문서에 내부 과격 표현이 남지 않았는가
+
+## 갱신 순서
+
+1. `python3 MHMbook/00_management/scripts/build_mhmbook.py`
+2. `python3 MHMbook/00_management/scripts/build_mhmbook_pdf.py`
+3. `cp MHMbook/output/mhmbook-draft.md mhm.medicalframe.ai/downloads/mhmbook-draft.md`
+4. `cp MHMbook/output/pdf/MHMbook.pdf mhm.medicalframe.ai/downloads/MHMbook.pdf`
+5. `MHMbook/assets/cover/` 변경분이 있으면 `mhm.medicalframe.ai/assets/cover/`와 동기화한다.
+6. `MHMbook/assets/illustrations/` 변경분이 있으면 `mhm.medicalframe.ai/assets/illustrations/`와 동기화한다.
+7. 웹사이트 링크, 표지/삽화 로딩, 데스크톱/모바일 렌더링을 확인한다.
