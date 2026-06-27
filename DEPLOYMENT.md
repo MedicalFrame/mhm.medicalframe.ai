@@ -1,5 +1,13 @@
 # mhm.medicalframe.ai 배포 메모
 
+## GitHub Pages
+
+- Repository: `https://github.com/jsbang01357/mhm.medicalframe.ai`
+- Pages source: `main` branch, repository root
+- Custom domain: `mhm.medicalframe.ai`
+- CNAME file: `CNAME`
+- HTTPS: Cloudflare에서 제공
+
 ## 현재 산출물
 
 - `index.html`: 공개 웹사이트
@@ -29,6 +37,15 @@
 - HTML 링크 검사에서 누락이 0개인가
 - 데스크톱/모바일 렌더링에서 가로 넘침이 없는가
 - 외부 공개 문서에 내부 과격 표현이 남지 않았는가
+
+## 현재 배포 확인
+
+- `https://mhm.medicalframe.ai/`: 200 OK
+- GitHub Pages status: `built`
+- HTML 링크/이미지 검사: 참조 17개, 누락 0개
+- 라이브 PDF: 129쪽, 제목 `나는 딴 돈의 절반만 가져가`
+- 라이브 Markdown: `OpenFrame`, `Open Source MIT License` 표기 확인
+- Cloudflare 이메일 보호 잡음 방지를 위해 footer 이메일은 텍스트로 표시한다.
 
 ## 갱신 순서
 
