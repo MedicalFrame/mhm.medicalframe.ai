@@ -6,7 +6,7 @@
 
 자산/라이선스: MedicalFrame Inc. company asset · Open Source MIT License
 
-생성일: 2026-06-28
+생성일: 2026-07-05
 
 ---
 

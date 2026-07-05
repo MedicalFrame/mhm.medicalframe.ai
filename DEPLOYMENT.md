@@ -2,7 +2,7 @@
 
 ## GitHub Pages
 
-- Repository: `https://github.com/jsbang01357/mhm.medicalframe.ai`
+- Repository: `https://github.com/MedicalFrame/mhm.medicalframe.ai`
 - Pages source: `main` branch, repository root
 - Custom domain: `mhm.medicalframe.ai`
 - CNAME file: `CNAME`
@@ -19,6 +19,7 @@
 - `downloads/MHMbook.pdf`: PDF 초안
 - `downloads/mhmbook-draft.md`: Markdown 원고 초안
 - `downloads/hyperframe-strategy.md`: 공개용 HyperFrame 전략 요약
+- `book/`: MHMbook 원천 원고와 빌드 파이프라인
 - `LICENSE`: MIT License
 - `CNAME`: `mhm.medicalframe.ai`
 - `.nojekyll`: GitHub Pages 정적 파일 보호용
@@ -28,8 +29,8 @@
 배포 전에 다음을 확인한다.
 
 - PDF 파일이 최신 합본에서 생성되었는가
-- `downloads/MHMbook.pdf`와 `MHMbook/output/pdf/MHMbook.pdf`가 같은 파일인가
-- `downloads/mhmbook-draft.md`와 `MHMbook/output/mhmbook-draft.md`가 같은 파일인가
+- `downloads/MHMbook.pdf`와 `book/output/pdf/MHMbook.pdf`가 같은 파일인가
+- `downloads/mhmbook-draft.md`와 `book/output/mhmbook-draft.md`가 같은 파일인가
 - 표지 이미지가 로드되는가
 - MIT License 파일이 공개 폴더에 있는가
 - 목차가 9부 28장 구조로 보이는가
@@ -49,10 +50,11 @@
 
 ## 갱신 순서
 
-1. `python3 MHMbook/00_management/scripts/build_mhmbook.py`
-2. `python3 MHMbook/00_management/scripts/build_mhmbook_pdf.py`
-3. `cp MHMbook/output/mhmbook-draft.md mhm.medicalframe.ai/downloads/mhmbook-draft.md`
-4. `cp MHMbook/output/pdf/MHMbook.pdf mhm.medicalframe.ai/downloads/MHMbook.pdf`
-5. `MHMbook/assets/cover/` 변경분이 있으면 `mhm.medicalframe.ai/assets/cover/`와 동기화한다.
-6. `MHMbook/assets/illustrations/` 변경분이 있으면 `mhm.medicalframe.ai/assets/illustrations/`와 동기화한다.
-7. 웹사이트 링크, 표지/삽화 로딩, 데스크톱/모바일 렌더링을 확인한다.
+1. `cd book`
+2. `python3 00_management/scripts/build_mhmbook.py`
+3. `python3 00_management/scripts/build_mhmbook_pdf.py`
+4. `cp output/mhmbook-draft.md ../downloads/mhmbook-draft.md`
+5. `cp output/pdf/MHMbook.pdf ../downloads/MHMbook.pdf`
+6. `assets/cover/` 변경분이 있으면 `../assets/cover/`와 동기화한다.
+7. `assets/illustrations/` 변경분이 있으면 `../assets/illustrations/`와 동기화한다.
+8. 웹사이트 링크, 표지/삽화 로딩, 데스크톱/모바일 렌더링을 확인한다.
