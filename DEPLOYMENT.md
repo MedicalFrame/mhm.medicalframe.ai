@@ -7,6 +7,7 @@
 - Custom domain: `mhm.medicalframe.ai`
 - CNAME file: `CNAME`
 - HTTPS: Cloudflare에서 제공
+- Canonical book source: `book/`
 
 ## 현재 산출물
 
