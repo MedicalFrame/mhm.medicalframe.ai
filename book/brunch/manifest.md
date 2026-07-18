@@ -1,6 +1,6 @@
 # MHMbook 브런치 전체 산출 매니페스트
 
-생성일: 2026-07-05
+생성일: 2026-07-12
 
 ## 산출 현황
 
@@ -24,78 +24,78 @@
 | 05 | 돈 있는 곳에서 벌고, 돈 없는 곳에는 나눈다 | 2부 | 1 | done | `assets/illustrations/05/01.png` |
 | 05 | 돈 있는 곳에서 벌고, 돈 없는 곳에는 나눈다 | 2부 | 2 | done | `assets/illustrations/05/02.png` |
 | 05 | 돈 있는 곳에서 벌고, 돈 없는 곳에는 나눈다 | 2부 | 3 | done | `assets/illustrations/05/03.png` |
-| 06 | 공짜는 돈 없이 유지되지 않는다 | 2부 | 1 | missing | `assets/illustrations/06/01.png` |
-| 06 | 공짜는 돈 없이 유지되지 않는다 | 2부 | 2 | missing | `assets/illustrations/06/02.png` |
-| 06 | 공짜는 돈 없이 유지되지 않는다 | 2부 | 3 | missing | `assets/illustrations/06/03.png` |
-| 07 | 의료는 상품이기 전에 생존 조건이다 | 3부 | 1 | missing | `assets/illustrations/07/01.png` |
-| 07 | 의료는 상품이기 전에 생존 조건이다 | 3부 | 2 | missing | `assets/illustrations/07/02.png` |
-| 07 | 의료는 상품이기 전에 생존 조건이다 | 3부 | 3 | missing | `assets/illustrations/07/03.png` |
-| 08 | 교육은 잠기면 계급이 된다 | 3부 | 1 | missing | `assets/illustrations/08/01.png` |
-| 08 | 교육은 잠기면 계급이 된다 | 3부 | 2 | missing | `assets/illustrations/08/02.png` |
-| 08 | 교육은 잠기면 계급이 된다 | 3부 | 3 | missing | `assets/illustrations/08/03.png` |
-| 09 | 연구는 닫힌 성이 아니라 열린 기반이다 | 3부 | 1 | missing | `assets/illustrations/09/01.png` |
-| 09 | 연구는 닫힌 성이 아니라 열린 기반이다 | 3부 | 2 | missing | `assets/illustrations/09/02.png` |
-| 09 | 연구는 닫힌 성이 아니라 열린 기반이다 | 3부 | 3 | missing | `assets/illustrations/09/03.png` |
-| 10 | Medical Frame은 만들고, OpenFrame은 공개한다 | 4부 | 1 | missing | `assets/illustrations/10/01.png` |
-| 10 | Medical Frame은 만들고, OpenFrame은 공개한다 | 4부 | 2 | missing | `assets/illustrations/10/02.png` |
-| 10 | Medical Frame은 만들고, OpenFrame은 공개한다 | 4부 | 3 | missing | `assets/illustrations/10/03.png` |
-| 11 | 지송재단과 OpenFrame | 4부 | 1 | missing | `assets/illustrations/11/01.png` |
-| 11 | 지송재단과 OpenFrame | 4부 | 2 | missing | `assets/illustrations/11/02.png` |
-| 11 | 지송재단과 OpenFrame | 4부 | 3 | missing | `assets/illustrations/11/03.png` |
-| 12 | 지원은 감정이 아니라 기준으로 한다 | 4부 | 1 | missing | `assets/illustrations/12/01.png` |
-| 12 | 지원은 감정이 아니라 기준으로 한다 | 4부 | 2 | missing | `assets/illustrations/12/02.png` |
-| 12 | 지원은 감정이 아니라 기준으로 한다 | 4부 | 3 | missing | `assets/illustrations/12/03.png` |
-| 13 | AI EMR은 왜 열려 있어야 하는가 | 5부 | 1 | missing | `assets/illustrations/13/01.png` |
-| 13 | AI EMR은 왜 열려 있어야 하는가 | 5부 | 2 | missing | `assets/illustrations/13/02.png` |
-| 13 | AI EMR은 왜 열려 있어야 하는가 | 5부 | 3 | missing | `assets/illustrations/13/03.png` |
-| 14 | 기존 EMR을 갈아엎기 전에 옆에 켠다 | 5부 | 1 | missing | `assets/illustrations/14/01.png` |
-| 14 | 기존 EMR을 갈아엎기 전에 옆에 켠다 | 5부 | 2 | missing | `assets/illustrations/14/02.png` |
-| 14 | 기존 EMR을 갈아엎기 전에 옆에 켠다 | 5부 | 3 | missing | `assets/illustrations/14/03.png` |
-| 15 | 작은 병원부터 좋은 시스템을 쓴다 | 5부 | 1 | missing | `assets/illustrations/15/01.png` |
-| 15 | 작은 병원부터 좋은 시스템을 쓴다 | 5부 | 2 | missing | `assets/illustrations/15/02.png` |
-| 15 | 작은 병원부터 좋은 시스템을 쓴다 | 5부 | 3 | missing | `assets/illustrations/15/03.png` |
-| 16 | 봉사단체에서 시작하는 이유 | 6부 | 1 | missing | `assets/illustrations/16/01.png` |
-| 16 | 봉사단체에서 시작하는 이유 | 6부 | 2 | missing | `assets/illustrations/16/02.png` |
-| 16 | 봉사단체에서 시작하는 이유 | 6부 | 3 | missing | `assets/illustrations/16/03.png` |
-| 17 | 공익 배포에도 안전장치가 필요하다 | 6부 | 1 | missing | `assets/illustrations/17/01.png` |
-| 17 | 공익 배포에도 안전장치가 필요하다 | 6부 | 2 | missing | `assets/illustrations/17/02.png` |
-| 17 | 공익 배포에도 안전장치가 필요하다 | 6부 | 3 | missing | `assets/illustrations/17/03.png` |
-| 18 | 실증이 끝나면 표준이 된다 | 6부 | 1 | missing | `assets/illustrations/18/01.png` |
-| 18 | 실증이 끝나면 표준이 된다 | 6부 | 2 | missing | `assets/illustrations/18/02.png` |
-| 18 | 실증이 끝나면 표준이 된다 | 6부 | 3 | missing | `assets/illustrations/18/03.png` |
-| 19 | 나를 방해하는 사람들은 언제나 있다 | 7부 | 1 | missing | `assets/illustrations/19/01.png` |
-| 19 | 나를 방해하는 사람들은 언제나 있다 | 7부 | 2 | missing | `assets/illustrations/19/02.png` |
-| 19 | 나를 방해하는 사람들은 언제나 있다 | 7부 | 3 | missing | `assets/illustrations/19/03.png` |
-| 20 | 나는 딴 돈의 절반만 가져가 | 7부 | 1 | missing | `assets/illustrations/20/01.png` |
-| 20 | 나는 딴 돈의 절반만 가져가 | 7부 | 2 | missing | `assets/illustrations/20/02.png` |
-| 20 | 나는 딴 돈의 절반만 가져가 | 7부 | 3 | missing | `assets/illustrations/20/03.png` |
-| 21 | 적을 만들지 말고 구조를 바꿔라 | 7부 | 1 | missing | `assets/illustrations/21/01.png` |
-| 21 | 적을 만들지 말고 구조를 바꿔라 | 7부 | 2 | missing | `assets/illustrations/21/02.png` |
-| 21 | 적을 만들지 말고 구조를 바꿔라 | 7부 | 3 | missing | `assets/illustrations/21/03.png` |
-| 22 | 선언보다 설치 | 7부 | 1 | missing | `assets/illustrations/22/01.png` |
-| 22 | 선언보다 설치 | 7부 | 2 | missing | `assets/illustrations/22/02.png` |
-| 22 | 선언보다 설치 | 7부 | 3 | missing | `assets/illustrations/22/03.png` |
-| 23 | 가격 정책도 윤리다 | 8부 | 1 | missing | `assets/illustrations/23/01.png` |
-| 23 | 가격 정책도 윤리다 | 8부 | 2 | missing | `assets/illustrations/23/02.png` |
-| 23 | 가격 정책도 윤리다 | 8부 | 3 | missing | `assets/illustrations/23/03.png` |
-| 24 | 사람에게 몫을 남긴다 | 8부 | 1 | missing | `assets/illustrations/24/01.png` |
-| 24 | 사람에게 몫을 남긴다 | 8부 | 2 | missing | `assets/illustrations/24/02.png` |
-| 24 | 사람에게 몫을 남긴다 | 8부 | 3 | missing | `assets/illustrations/24/03.png` |
-| 25 | 사회로 다시 흘려보낸다 | 8부 | 1 | missing | `assets/illustrations/25/01.png` |
-| 25 | 사회로 다시 흘려보낸다 | 8부 | 2 | missing | `assets/illustrations/25/02.png` |
-| 25 | 사회로 다시 흘려보낸다 | 8부 | 3 | missing | `assets/illustrations/25/03.png` |
-| 26 | 기업은 공익을 외주 줄 수 없다 | 9부 | 1 | missing | `assets/illustrations/26/01.png` |
-| 26 | 기업은 공익을 외주 줄 수 없다 | 9부 | 2 | missing | `assets/illustrations/26/02.png` |
-| 26 | 기업은 공익을 외주 줄 수 없다 | 9부 | 3 | missing | `assets/illustrations/26/03.png` |
-| 27 | 오픈소스는 사회적 약속이다 | 9부 | 1 | missing | `assets/illustrations/27/01.png` |
-| 27 | 오픈소스는 사회적 약속이다 | 9부 | 2 | missing | `assets/illustrations/27/02.png` |
-| 27 | 오픈소스는 사회적 약속이다 | 9부 | 3 | missing | `assets/illustrations/27/03.png` |
-| 28 | 사회기업윤리 선언 | 9부 | 1 | missing | `assets/illustrations/28/01.png` |
-| 28 | 사회기업윤리 선언 | 9부 | 2 | missing | `assets/illustrations/28/02.png` |
-| 28 | 사회기업윤리 선언 | 9부 | 3 | missing | `assets/illustrations/28/03.png` |
-| 99 | 에필로그. 의료는 모두의 것이다 | 에필로그 | 1 | missing | `assets/illustrations/99/01.png` |
-| 99 | 에필로그. 의료는 모두의 것이다 | 에필로그 | 2 | missing | `assets/illustrations/99/02.png` |
-| 99 | 에필로그. 의료는 모두의 것이다 | 에필로그 | 3 | missing | `assets/illustrations/99/03.png` |
+| 06 | 공짜는 돈 없이 유지되지 않는다 | 2부 | 1 | done | `assets/illustrations/06/01.png` |
+| 06 | 공짜는 돈 없이 유지되지 않는다 | 2부 | 2 | done | `assets/illustrations/06/02.png` |
+| 06 | 공짜는 돈 없이 유지되지 않는다 | 2부 | 3 | done | `assets/illustrations/06/03.png` |
+| 07 | 의료는 상품이기 전에 생존 조건이다 | 3부 | 1 | done | `assets/illustrations/07/01.png` |
+| 07 | 의료는 상품이기 전에 생존 조건이다 | 3부 | 2 | done | `assets/illustrations/07/02.png` |
+| 07 | 의료는 상품이기 전에 생존 조건이다 | 3부 | 3 | done | `assets/illustrations/07/03.png` |
+| 08 | 교육은 잠기면 계급이 된다 | 3부 | 1 | done | `assets/illustrations/08/01.png` |
+| 08 | 교육은 잠기면 계급이 된다 | 3부 | 2 | done | `assets/illustrations/08/02.png` |
+| 08 | 교육은 잠기면 계급이 된다 | 3부 | 3 | done | `assets/illustrations/08/03.png` |
+| 09 | 연구는 닫힌 성이 아니라 열린 기반이다 | 3부 | 1 | done | `assets/illustrations/09/01.png` |
+| 09 | 연구는 닫힌 성이 아니라 열린 기반이다 | 3부 | 2 | done | `assets/illustrations/09/02.png` |
+| 09 | 연구는 닫힌 성이 아니라 열린 기반이다 | 3부 | 3 | done | `assets/illustrations/09/03.png` |
+| 10 | Medical Frame은 만들고, OpenFrame은 공개한다 | 4부 | 1 | done | `assets/illustrations/10/01.png` |
+| 10 | Medical Frame은 만들고, OpenFrame은 공개한다 | 4부 | 2 | done | `assets/illustrations/10/02.png` |
+| 10 | Medical Frame은 만들고, OpenFrame은 공개한다 | 4부 | 3 | done | `assets/illustrations/10/03.png` |
+| 11 | 지송재단과 OpenFrame | 4부 | 1 | done | `assets/illustrations/11/01.png` |
+| 11 | 지송재단과 OpenFrame | 4부 | 2 | done | `assets/illustrations/11/02.png` |
+| 11 | 지송재단과 OpenFrame | 4부 | 3 | done | `assets/illustrations/11/03.png` |
+| 12 | 지원은 감정이 아니라 기준으로 한다 | 4부 | 1 | done | `assets/illustrations/12/01.png` |
+| 12 | 지원은 감정이 아니라 기준으로 한다 | 4부 | 2 | done | `assets/illustrations/12/02.png` |
+| 12 | 지원은 감정이 아니라 기준으로 한다 | 4부 | 3 | done | `assets/illustrations/12/03.png` |
+| 13 | AI EMR은 왜 열려 있어야 하는가 | 5부 | 1 | done | `assets/illustrations/13/01.png` |
+| 13 | AI EMR은 왜 열려 있어야 하는가 | 5부 | 2 | done | `assets/illustrations/13/02.png` |
+| 13 | AI EMR은 왜 열려 있어야 하는가 | 5부 | 3 | done | `assets/illustrations/13/03.png` |
+| 14 | 기존 EMR을 갈아엎기 전에 옆에 켠다 | 5부 | 1 | done | `assets/illustrations/14/01.png` |
+| 14 | 기존 EMR을 갈아엎기 전에 옆에 켠다 | 5부 | 2 | done | `assets/illustrations/14/02.png` |
+| 14 | 기존 EMR을 갈아엎기 전에 옆에 켠다 | 5부 | 3 | done | `assets/illustrations/14/03.png` |
+| 15 | 작은 병원부터 좋은 시스템을 쓴다 | 5부 | 1 | done | `assets/illustrations/15/01.png` |
+| 15 | 작은 병원부터 좋은 시스템을 쓴다 | 5부 | 2 | done | `assets/illustrations/15/02.png` |
+| 15 | 작은 병원부터 좋은 시스템을 쓴다 | 5부 | 3 | done | `assets/illustrations/15/03.png` |
+| 16 | 봉사단체에서 시작하는 이유 | 6부 | 1 | done | `assets/illustrations/16/01.png` |
+| 16 | 봉사단체에서 시작하는 이유 | 6부 | 2 | done | `assets/illustrations/16/02.png` |
+| 16 | 봉사단체에서 시작하는 이유 | 6부 | 3 | done | `assets/illustrations/16/03.png` |
+| 17 | 공익 배포에도 안전장치가 필요하다 | 6부 | 1 | done | `assets/illustrations/17/01.png` |
+| 17 | 공익 배포에도 안전장치가 필요하다 | 6부 | 2 | done | `assets/illustrations/17/02.png` |
+| 17 | 공익 배포에도 안전장치가 필요하다 | 6부 | 3 | done | `assets/illustrations/17/03.png` |
+| 18 | 실증이 끝나면 표준이 된다 | 6부 | 1 | done | `assets/illustrations/18/01.png` |
+| 18 | 실증이 끝나면 표준이 된다 | 6부 | 2 | done | `assets/illustrations/18/02.png` |
+| 18 | 실증이 끝나면 표준이 된다 | 6부 | 3 | done | `assets/illustrations/18/03.png` |
+| 19 | 나를 방해하는 사람들은 언제나 있다 | 7부 | 1 | done | `assets/illustrations/19/01.png` |
+| 19 | 나를 방해하는 사람들은 언제나 있다 | 7부 | 2 | done | `assets/illustrations/19/02.png` |
+| 19 | 나를 방해하는 사람들은 언제나 있다 | 7부 | 3 | done | `assets/illustrations/19/03.png` |
+| 20 | 나는 딴 돈의 절반만 가져가 | 7부 | 1 | done | `assets/illustrations/20/01.png` |
+| 20 | 나는 딴 돈의 절반만 가져가 | 7부 | 2 | done | `assets/illustrations/20/02.png` |
+| 20 | 나는 딴 돈의 절반만 가져가 | 7부 | 3 | done | `assets/illustrations/20/03.png` |
+| 21 | 적을 만들지 말고 구조를 바꿔라 | 7부 | 1 | done | `assets/illustrations/21/01.png` |
+| 21 | 적을 만들지 말고 구조를 바꿔라 | 7부 | 2 | done | `assets/illustrations/21/02.png` |
+| 21 | 적을 만들지 말고 구조를 바꿔라 | 7부 | 3 | done | `assets/illustrations/21/03.png` |
+| 22 | 선언보다 설치 | 7부 | 1 | done | `assets/illustrations/22/01.png` |
+| 22 | 선언보다 설치 | 7부 | 2 | done | `assets/illustrations/22/02.png` |
+| 22 | 선언보다 설치 | 7부 | 3 | done | `assets/illustrations/22/03.png` |
+| 23 | 가격 정책도 윤리다 | 8부 | 1 | done | `assets/illustrations/23/01.png` |
+| 23 | 가격 정책도 윤리다 | 8부 | 2 | done | `assets/illustrations/23/02.png` |
+| 23 | 가격 정책도 윤리다 | 8부 | 3 | done | `assets/illustrations/23/03.png` |
+| 24 | 사람에게 몫을 남긴다 | 8부 | 1 | done | `assets/illustrations/24/01.png` |
+| 24 | 사람에게 몫을 남긴다 | 8부 | 2 | done | `assets/illustrations/24/02.png` |
+| 24 | 사람에게 몫을 남긴다 | 8부 | 3 | done | `assets/illustrations/24/03.png` |
+| 25 | 사회로 다시 흘려보낸다 | 8부 | 1 | done | `assets/illustrations/25/01.png` |
+| 25 | 사회로 다시 흘려보낸다 | 8부 | 2 | done | `assets/illustrations/25/02.png` |
+| 25 | 사회로 다시 흘려보낸다 | 8부 | 3 | done | `assets/illustrations/25/03.png` |
+| 26 | 기업은 공익을 외주 줄 수 없다 | 9부 | 1 | done | `assets/illustrations/26/01.png` |
+| 26 | 기업은 공익을 외주 줄 수 없다 | 9부 | 2 | done | `assets/illustrations/26/02.png` |
+| 26 | 기업은 공익을 외주 줄 수 없다 | 9부 | 3 | done | `assets/illustrations/26/03.png` |
+| 27 | 오픈소스는 사회적 약속이다 | 9부 | 1 | done | `assets/illustrations/27/01.png` |
+| 27 | 오픈소스는 사회적 약속이다 | 9부 | 2 | done | `assets/illustrations/27/02.png` |
+| 27 | 오픈소스는 사회적 약속이다 | 9부 | 3 | done | `assets/illustrations/27/03.png` |
+| 28 | 사회기업윤리 선언 | 9부 | 1 | done | `assets/illustrations/28/01.png` |
+| 28 | 사회기업윤리 선언 | 9부 | 2 | done | `assets/illustrations/28/02.png` |
+| 28 | 사회기업윤리 선언 | 9부 | 3 | done | `assets/illustrations/28/03.png` |
+| 99 | 에필로그. 의료는 모두의 것이다 | 에필로그 | 1 | done | `assets/illustrations/99/01.png` |
+| 99 | 에필로그. 의료는 모두의 것이다 | 에필로그 | 2 | done | `assets/illustrations/99/02.png` |
+| 99 | 에필로그. 의료는 모두의 것이다 | 에필로그 | 3 | done | `assets/illustrations/99/03.png` |
 
 ## 삽화 생성 프롬프트
 
